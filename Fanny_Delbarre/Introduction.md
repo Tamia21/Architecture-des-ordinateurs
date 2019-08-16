@@ -9,3 +9,5 @@ Se site a été créé a la demande du cours d’Outils bureautiques et d’Arch
 -[Sur quoi se base-t-il?](Sur quoi se base-t-il?.md)
 -[Comment fonctionne-t-il?](Comment fonctionne-t-il?.md)
 -[Composants](Composants.md)
+-[Type](Type.md)
+-[Futur](Futur.md)

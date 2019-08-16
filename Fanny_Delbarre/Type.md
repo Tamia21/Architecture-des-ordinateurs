@@ -1,6 +1,6 @@
-#Les assistants intelligents et les enceintes connectées
+# Les assistants intelligents et les enceintes connectées
 
-##Type
+## Type
 
 1)Mon-Enceinte.fr : guide pratique et guide d’achat. Dans : Mon Enceinte : enceintes connectées & Assistants vocaux [en ligne]. [s. d.]. [Consulté le 13 août 2019]. Disponible à l’adresse : https://www.mon-enceinte.fr/
 ![Wikipédia](https://user-images.githubusercontent.com/50197038/63185045-41cbac00-c059-11e9-927c-64c05cb85899.png)

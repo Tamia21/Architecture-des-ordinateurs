@@ -1,6 +1,6 @@
-#Les assistants intelligents et les enceintes connectées
+# Les assistants intelligents et les enceintes connectées
 
-##Comment fonctionne-t-il?
+## Comment fonctionne-t-il?
 
 1) Enceintes intelligentes : des assistants vocaux connectés à votre vie privée. Dans : CNIL. [en ligne]. 20 décembre 2018. [Consulté le 13 août 2019]. Disponible à l’adresse : https://www.cnil.fr/fr/enceintes-intelligentes-des-assistants-vocaux-connectes-votre-vie-privee
 ![CNIL](https://user-images.githubusercontent.com/50197038/63182948-13979d80-c054-11e9-996f-fc376abfdf8d.png)

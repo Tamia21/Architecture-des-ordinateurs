@@ -17,11 +17,11 @@
 
 -[Les débuts de la technologie](Les_débuts_de_la_technologie.md)
 
--[A quoi sert-il?](A_quoi_sert_il?.md)
+-[A quoi sert-il?](A_quoi_sert_il.md)
 
--[Sur quoi se base-t-il?](Sur_quoi_se_base_t_il?.md)
+-[Sur quoi se base-t-il?](Sur_quoi_se_base_t_il.md)
 
--[Comment fonctionne-t-il?](Comment_fonctionne_t_il?.md)
+-[Comment fonctionne-t-il?](Comment_fonctionne_t_il.md)
 
 -[Composants](Composants.md)
 

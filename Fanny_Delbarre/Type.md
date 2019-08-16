@@ -14,7 +14,7 @@
 4)CARLIER, Mathieu. Qu’est-ce que Google Assistant, comment fonctionne-t-il et quels appareils sont éligibles ? Dans : Le Blog Domotique [en ligne]. 24 mai 2018. [Consulté le 13 août 2019]. Disponible à l’adresse : http://www.leblogdomotique.fr/technologie/quest-ce-que-google-assistant-7467
 ![Wikipédia](https://user-images.githubusercontent.com/50197038/63185047-42644280-c059-11e9-9447-bf5b34a65cde.png)
 
-[Introduction](Introduction.md)
+-[Introduction](Introduction.md)
 
 -[Définitions](Définitions.md)
 
